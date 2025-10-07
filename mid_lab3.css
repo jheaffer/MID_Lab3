@@ -60,7 +60,7 @@
 #container #menu ul li a {
   text-decoration: none;
   color: #dcdde1;
-  font-size: 25pt;
+  font-size: 40pt;
   transition: all 0.3s ease;
   padding: 5px 10px;
   border-radius: 5px;
@@ -156,3 +156,4 @@
 
 
 }
+
